@@ -66,10 +66,6 @@ Em seguida, abra o arquivo:
 - Arquivo principal: `data/pib_municipios_ce.xlsx`  
 - Fonte: Atlas Brasil (consulta por planilha, estado do Ceará, todos os municípios, indicador de PIB, anos de 2014 a 2016).
 
-## Relatório final
-
-O relatório final, contendo gráficos e interpretações completas, está localizado em:  
-`reports/relatorio_pib_ce.pdf`
 
 ## Autor
 
